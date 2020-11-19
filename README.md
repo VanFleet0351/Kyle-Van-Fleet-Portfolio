@@ -3,7 +3,7 @@
 #### Contact Information:
 * Email: kovanfleet@gmail.com
 * Phone: (941) 350-6698
-* Linkedin: 
+* [Linkedin](https://www.linkedin.com/in/kyle-van-fleet-22314b200/)
 * Address: 6043 Chidely St. Galloway, OH 43119
 
 ## About Me:
