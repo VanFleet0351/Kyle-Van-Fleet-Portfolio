@@ -10,7 +10,7 @@
 TODO:
 
 
-## Projects:
+## Notable Projects:
 
  1. [Desktop Video Game](https://vanfleet0351.github.io/MarioRemake/) 
  1. [Neural Network Nonlinear Drone Controller](https://vanfleet0351.github.io/Nonlinear-Drone-Controller/) 
