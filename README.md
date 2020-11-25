@@ -7,7 +7,7 @@
 * [Linkedin](https://www.linkedin.com/in/kyle-van-fleet-22314b200/)
 
 ## About Me:
-Passionate and driven graduate from The Ohio State University seeking an entry-level position in software development. Passionate and 
+Passionate and resourceful graduate from The Ohio State University seeking an entry-level position in software development. Experienced leader and dedicated collaborator in an agile environment. Adept at picking up new languages and technologies.
 
 
 ## Notable Projects:
