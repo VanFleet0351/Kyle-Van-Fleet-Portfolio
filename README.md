@@ -3,11 +3,11 @@
 #### Contact Information:
 * Email: kovanfleet@gmail.com
 * Phone: (941) 350-6698
-* Address: 6043 Chidley St. Galloway, OH 43119
+* Address: 6043 Chidley St., Galloway, OH 43119
 * [Linkedin](https://www.linkedin.com/in/kyle-van-fleet-22314b200/)
 
 ## About Me:
-TODO:
+Passionate and driven graduate from The Ohio State University seeking an entry-level position in software development. Passionate and 
 
 
 ## Notable Projects:
