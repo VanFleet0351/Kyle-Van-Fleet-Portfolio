@@ -6,7 +6,7 @@
 * Address: 6043 Chidley St., Galloway, OH 43119
 * [Linkedin](https://www.linkedin.com/in/kyle-van-fleet-22314b200/)
 
-![Kyle Van Fleet](img/profile2.jpeg)
+![Kyle Van Fleet](img/profile3.jpeg)
 
 ## About Me:
 Passionate and resourceful graduate from The Ohio State University seeking an entry-level position in software development. Experienced leader and dedicated collaborator in an agile environment. Adept at picking up new languages and technologies.
