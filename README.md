@@ -17,4 +17,4 @@ Passionate and resourceful graduate from The Ohio State University seeking an en
  1. [Desktop Video Game](https://vanfleet0351.github.io/MarioRemake/) 
  1. [Neural Network Nonlinear Drone Controller](https://vanfleet0351.github.io/Nonlinear-Drone-Controller/) 
  1. [Tutor/Student Matching Android Application](https://vanfleet0351.github.io/tutorMe-Android-App/) 
- 1. [Imperative Programming Language Interpreter](https://vanfleet0351.github.io/CSE3341Interpreter/) 
+ 1. [Imperative Programming Language Interpreter](https://vanfleet0351.github.io/GraphicalCoreInterp/) 
